@@ -13,7 +13,14 @@ h1{
     word-break: break-all;
 }
 
+h3{
+    text-align: center;
+}
 
+div.content>p{
+    text-align: justify;
+    font-size: 13px;
+}
 
 p{
     text-align: justify;
